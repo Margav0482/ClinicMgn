@@ -1,0 +1,9 @@
+.error_msg {
+    color: red;
+    font-size: initial;
+    margin-left: inherit;
+}
+
+.input-filed {
+    padding-block: inherit;
+}

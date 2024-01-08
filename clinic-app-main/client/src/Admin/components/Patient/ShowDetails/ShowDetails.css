@@ -1,0 +1,19 @@
+.header_wepper{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 3%;
+}
+
+.card_wepper{
+    margin-top: 1%;
+}
+
+.table_margin{
+    margin-top: 2%;
+}
+
+.title_text{
+    background: black;
+    color: white;
+    font-family: emoji;
+}

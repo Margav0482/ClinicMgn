@@ -1,0 +1,33 @@
+.linkActive{
+    background-color: white !important;
+    color: #1976d2 !important;
+}
+
+.headerLink:hover{
+    background-color: white !important;
+    color: #1976d2 !important;
+}
+
+.button:hover{
+    /* background-color: red; */
+    color: red;
+}
+
+.header_wepper{
+    margin: 0;
+    padding: 0;
+    background: darkslategray;
+    /* cornflowerblue */
+    margin-bottom: 3%;
+} 
+
+img{
+    height: 60px;
+    width: auto;
+    border-radius: 19px;
+}
+
+.appBar_background{
+    background: cornflowerblue !important;
+    z-index : 100 !important;
+}
